@@ -13,6 +13,8 @@ This project focuses on building a custom Convolutional Neural Network (CNN) fro
 - scikit-learn
 
 Install dependencies via:
+The following code was tested and created on google colab.
+no specific version used.
 
 ```bash
 pip install -r requirements.txt
