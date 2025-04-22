@@ -36,13 +36,13 @@ pip install -r requirements.txt
 3. 🧱 Model Architecture
 
 - Custom functional API-based CNN model
-- SpatialDropout2D for regularization
+- Dropout for regularization
 - BatchNormalization for faster convergence
-- Adam optimizer with exponential learning rate decay
+- Adam optimizer with cosine learning rate decay
 
 4. 🎯 Model Training
 
-- 50 epochs with early stopping callback
+- 20 epochs with early stopping callback
 - Validation set for generalization monitoring
 - Training loss and accuracy curves plotted
 
