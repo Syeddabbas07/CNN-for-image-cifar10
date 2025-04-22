@@ -62,7 +62,3 @@ pip install -r requirements.txt
 This project is for academic use. You are welcome to build on it, but please reference original ideas if reused.
 
 ---
-
-## 📬 Contact
-
-For questions, contact your module leader or the project contributor.
