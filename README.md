@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 4. 🎯 Model Training
 
-- 20 epochs with early stopping callback
+- 50 epochs with early stopping callback
 - Validation set for generalization monitoring
 - Training loss and accuracy curves plotted
 
